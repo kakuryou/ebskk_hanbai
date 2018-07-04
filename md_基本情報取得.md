@@ -1,52 +1,56 @@
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### Šî–{Žd—l
-‚PAAPIƒpƒXF/users/Šé‹Æ•W€ƒR[ƒh<br>
-‚QAƒƒ\ƒbƒhFGET<br>
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŠƒNƒGƒXƒgƒwƒbƒ_[
-ƒVƒOƒlƒ`ƒƒ‚âAPIƒL[‚È‚Ç‚ÌÚ×‚Íu‹¤’ÊƒtƒH[ƒ}ƒbƒgv‚ðŽQÆ‚µ‚Ä‚­‚¾‚³‚¢<br>
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### åŸºæœ¬ä»•æ§˜
+ï¼‘ã€APIãƒ‘ã‚¹ï¼š/users/ä¼æ¥­æ¨™æº–ã‚³ãƒ¼ãƒ‰<br>
+ï¼’ã€ãƒ¡ã‚½ãƒƒãƒ‰ï¼šGET<br>
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒªã‚¯ã‚¨ã‚¹ãƒˆãƒ˜ãƒƒãƒ€ãƒ¼
+ã‚·ã‚°ãƒãƒãƒ£ã‚„APIã‚­ãƒ¼ãªã©ã®è©³ç´°ã¯ã€Œå…±é€šãƒ•ã‚©ãƒ¼ãƒžãƒƒãƒˆã€ã‚’å‚ç…§ã—ã¦ãã ã•ã„<br>
 
-|ƒtƒB[ƒ‹ƒh–¼|“à—e|
+|ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰å|å†…å®¹|
 |-|-|
 |Content-Type|application/json|
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŠƒNƒGƒXƒgƒRƒ“ƒeƒ“ƒg
-‚È‚µ<br>
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŒƒXƒ|ƒ“ƒXHTTPƒXƒe[ƒ^ƒX
 
-|ƒXƒe[ƒ^ƒXƒR[ƒh|à–¾|
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒªã‚¯ã‚¨ã‚¹ãƒˆã‚³ãƒ³ãƒ†ãƒ³ãƒˆ
+ãªã—<br>
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒ¬ã‚¹ãƒãƒ³ã‚¹HTTPã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹
+
+|ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã‚³ãƒ¼ãƒ‰|èª¬æ˜Ž|
 |-|-|
-|200|Žæ“¾Š®—¹|
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŒƒXƒ|ƒ“ƒXƒwƒbƒ_[
+|200|å–å¾—å®Œäº†|
 
-|ƒtƒB[ƒ‹ƒh–¼|’l|
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒ¬ã‚¹ãƒãƒ³ã‚¹ãƒ˜ãƒƒãƒ€ãƒ¼
+
+|ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰å|å€¤|
 |-|-|
 |Content-Type|application/json|
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŒƒXƒ|ƒ“ƒXƒRƒ“ƒeƒ“ƒg
 
-|ƒpƒ‰ƒ[ƒ^–¼|à–¾|ƒf[ƒ^Œ^|
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒ¬ã‚¹ãƒãƒ³ã‚¹ã‚³ãƒ³ãƒ†ãƒ³ãƒˆ
+
+|ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿å|èª¬æ˜Ž|ãƒ‡ãƒ¼ã‚¿åž‹|
 |-|-|-|
-|company_name|‰ïŽÐ–¼|•¶Žš—ñ|
-|company_english_name|‰ïŽÐ‰p•¶–¼|•¶Žš—ñ|
-|zip_code|163-0636|•¶Žš—ñ>|
-|phone1|“d˜b”Ô†|•¶Žš—ñ|
-|phone2|“d˜b”Ô†|•¶Žš—ñ>|
-|phone3|“d˜b”Ô†|•¶Žš—ñ|
-|fax|FAX|•¶Žš—ñ|
-|mail_address|ƒ[ƒ‹ƒAƒhƒŒƒX|•¶Žš—ñ|
-|manager|‘ã•\–¼|•¶Žš—ñ|
-|tax_rates|Å—¦|•¶Žš—ñ|
-|bank_no|‹âsŒûÀ|•¶Žš—ñ|
-|home_page|ƒz[ƒ€ƒy[ƒW|•¶Žš—ñ|
-|address|‰ïŽÐZŠ|•¶Žš—ñ|
-|year_period_start|”N“xŠúŠÔ|•¶Žš—ñ|
-|year_period_end|”N“xŠúŠÔ|•¶Žš—ñ|
-|company_unique_code|Šé‹Æ•W€ƒR[ƒh|•¶Žš—ñ|
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŠƒNƒGƒXƒgƒTƒ“ƒvƒ‹
+|company_name|ä¼šç¤¾å|æ–‡å­—åˆ—|
+|company_english_name|ä¼šç¤¾è‹±æ–‡å|æ–‡å­—åˆ—|
+|zip_code|éƒµä¾¿ç•ªå·|æ–‡å­—åˆ—|
+|phone1|é›»è©±ç•ªå·|æ–‡å­—åˆ—|
+|phone2|é›»è©±ç•ªå·|æ–‡å­—åˆ—|
+|phone3|é›»è©±ç•ªå·|æ–‡å­—åˆ—|
+|fax|FAX|æ–‡å­—åˆ—|
+|mail_address|ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹|æ–‡å­—åˆ—|
+|manager|ä»£è¡¨å|æ–‡å­—åˆ—|
+|tax_rates|ç¨ŽçŽ‡|æ–‡å­—åˆ—|
+|bank_no|éŠ€è¡Œå£åº§|æ–‡å­—åˆ—|
+|home_page|ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸|æ–‡å­—åˆ—|
+|address|ä¼šç¤¾ä½æ‰€|æ–‡å­—åˆ—|
+|year_period_start|å¹´åº¦æœŸé–“|æ–‡å­—åˆ—|
+|year_period_end|å¹´åº¦æœŸé–“|æ–‡å­—åˆ—|
+|company_unique_code|ä¼æ¥­æ¨™æº–ã‚³ãƒ¼ãƒ‰|æ–‡å­—åˆ—|
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒªã‚¯ã‚¨ã‚¹ãƒˆã‚µãƒ³ãƒ—ãƒ«
 curl -X GET -G \ <br>
  -H "X-NCMB-Apps-Session-Token:46MnVgUbwHIXIHp9mowIeh7r2" \ <br>
  -H "X-NCMB-Application-Key: 549116a86b0ebbec4832d4086a56f36c82a5d64bc6528fa5e6220be76db5ef45" \ <br>
@@ -54,10 +58,10 @@ curl -X GET -G \ <br>
  -H "X-NCMB-Signature: x2Dlg8KCZ7M77kD45ofeCZAJScVcVVl7Xn7SHhE0CF0=" \ <br>
  -H "Content-Type: application/json" \ <br> 
 https://hanbai.jpis.co.jp/rest/users/12345678 <br>
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŒƒXƒ|ƒ“ƒXƒTƒ“ƒvƒ‹
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒ¬ã‚¹ãƒãƒ³ã‚¹ã‚µãƒ³ãƒ—ãƒ«
 {<br>
-  "company_name":"Š”Ž®‰ïŽÐeƒrƒWƒlƒXƒ\ƒŠƒ…[ƒVƒ‡ƒ“",<br>
+  "company_name":"æ ªå¼ä¼šç¤¾eãƒ“ã‚¸ãƒã‚¹ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³",<br>
   "company_english_name":"  EBS",<br>
   "zip_code":"163-0636",<br>
   "phone1":"03-5339-1101  ",<br>
@@ -69,9 +73,9 @@ https://hanbai.jpis.co.jp/rest/users/12345678 <br>
   "tax_rates":"5",<br>
   "bank_no":"1234567890",<br>
   "home_page":"www.edic.co.jp",<br>
-  "address":"“Œ‹ž“sVh‹æ¼Vh1-25-1VhƒZƒ“ƒ^[ƒrƒ‹36F",<br>
+  "address":"æ±äº¬éƒ½æ–°å®¿åŒºè¥¿æ–°å®¿1-25-1æ–°å®¿ã‚»ãƒ³ã‚¿ãƒ¼ãƒ“ãƒ«36F",<br>
   "year_period_start":"2018/1/1",<br>
   "year_period_end":"2018/12/31",<br>
   "company_unique_code":"12345678"<br>
 }<br>
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
