@@ -1,50 +1,55 @@
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### Šî–{Žd—l
-‚PAAPIƒpƒXF/users<br>
-‚QAƒƒ\ƒbƒhFPOST<br>
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŠƒNƒGƒXƒgƒwƒbƒ_[
-ƒVƒOƒlƒ`ƒƒ‚âAPIƒL[‚È‚Ç‚ÌÚ×‚Íu‹¤’ÊƒtƒH[ƒ}ƒbƒgv‚ðŽQÆ‚µ‚Ä‚­‚¾‚³‚¢B<br>
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### åŸºæœ¬ä»•æ§˜
+ï¼‘ã€APIãƒ‘ã‚¹ï¼š/users<br>
+ï¼’ã€ãƒ¡ã‚½ãƒƒãƒ‰ï¼šPOST<br>
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒªã‚¯ã‚¨ã‚¹ãƒˆãƒ˜ãƒƒãƒ€ãƒ¼
+ã‚·ã‚°ãƒãƒãƒ£ã‚„APIã‚­ãƒ¼ãªã©ã®è©³ç´°ã¯ã€Œå…±é€šãƒ•ã‚©ãƒ¼ãƒžãƒƒãƒˆã€ã‚’å‚ç…§ã—ã¦ãã ã•ã„ã€‚<br>
 
-|ƒtƒB[ƒ‹ƒh–¼|“à—e|
+|ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰å|å†…å®¹|
 |-|-|
 |Content-Type|application/json|
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŠƒNƒGƒXƒgƒRƒ“ƒeƒ“ƒg
 
-|ƒpƒ‰ƒ[ƒ^–¼|à–¾|ƒf[ƒ^Œ^|•K{|ƒ`ƒFƒbƒN|
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒªã‚¯ã‚¨ã‚¹ãƒˆã‚³ãƒ³ãƒ†ãƒ³ãƒˆ
+
+|ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿å|èª¬æ˜Ž|ãƒ‡ãƒ¼ã‚¿åž‹|å¿…é ˆ|ãƒã‚§ãƒƒã‚¯|
 |-|-|-|-|-|
-|company_unique_code|Šé‹Æ•W€ƒR[ƒh|•¶Žš—ñA”¼Šp50Œ…|¢|‘¶Ýƒ`ƒFƒbƒN|
-|person_in_charge_code|’S“–ŽÒƒR[ƒh|•¶Žš—ñA”¼Šp60Œ…|¢|ˆêˆÓƒ`ƒFƒbƒNAƒtƒH[ƒ}ƒbƒgƒ`ƒFƒbƒN|
-|passwords|ƒpƒXƒ\ƒh|•¶Žš—ñA”¼Šp50Œ…|¢||
-|person_in_charge_name|’S“–ŽÒ–¼|•¶Žš—ñA”¼Šp20Œ…|¢||
-|person_in_charge_mail|’S“–ŽÒƒ[ƒ‹ƒAƒhƒŒƒX|•¶Žš—ñA”¼Šp60Œ…|¢|ƒtƒH[ƒ}ƒbƒgƒ`ƒFƒbƒN|
-|mobile_tel|Œg‘Ñ“d˜b”Ô†|•¶Žš—ñA”¼Šp20Œ…|||
-|home_tel|Ž©‘î“d˜b”Ô†|•¶Žš—ñA”¼Šp20Œ…|||
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŒƒXƒ|ƒ“ƒXHTTPƒXƒe[ƒ^ƒX
+|company_unique_code|ä¼æ¥­æ¨™æº–ã‚³ãƒ¼ãƒ‰|æ–‡å­—åˆ—ã€åŠè§’50æ¡|â–³|å­˜åœ¨ãƒã‚§ãƒƒã‚¯|
+|person_in_charge_code|æ‹…å½“è€…ã‚³ãƒ¼ãƒ‰|æ–‡å­—åˆ—ã€åŠè§’60æ¡|â–³|ä¸€æ„ãƒã‚§ãƒƒã‚¯ã€ãƒ•ã‚©ãƒ¼ãƒžãƒƒãƒˆãƒã‚§ãƒƒã‚¯|
+|passwords|ãƒ‘ã‚¹ãƒ¯â€•ãƒ‰|æ–‡å­—åˆ—ã€åŠè§’50æ¡|â–³||
+|person_in_charge_name|æ‹…å½“è€…å|æ–‡å­—åˆ—ã€åŠè§’20æ¡|â–³||
+|person_in_charge_mail|æ‹…å½“è€…ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹|æ–‡å­—åˆ—ã€åŠè§’60æ¡|â–³|ãƒ•ã‚©ãƒ¼ãƒžãƒƒãƒˆãƒã‚§ãƒƒã‚¯|
+|mobile_tel|æºå¸¯é›»è©±ç•ªå·|æ–‡å­—åˆ—ã€åŠè§’20æ¡|||
+|home_tel|è‡ªå®…é›»è©±ç•ªå·|æ–‡å­—åˆ—ã€åŠè§’20æ¡|||
 
-|ƒXƒe[ƒ^ƒXƒR[ƒh|à–¾|
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒ¬ã‚¹ãƒãƒ³ã‚¹HTTPã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹
+
+|ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã‚³ãƒ¼ãƒ‰|èª¬æ˜Ž|
 |-|-|
-|200|“o˜^Š®—¹|
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŒƒXƒ|ƒ“ƒXƒwƒbƒ_[
+|200|ç™»éŒ²å®Œäº†|
 
-|ƒtƒB[ƒ‹ƒh–¼|’l|
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒ¬ã‚¹ãƒãƒ³ã‚¹ãƒ˜ãƒƒãƒ€ãƒ¼
+
+|ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰å|å€¤|
 |-|-|
 |Content-Type|application/json|
-|Location|https://XXXXXXX.com/rest/users/’S“–ŽÒƒR[ƒh|
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŒƒXƒ|ƒ“ƒXƒRƒ“ƒeƒ“ƒg
-----------------------------------------------------------------------------------------------------------------------
-|ƒpƒ‰ƒ[ƒ^–¼|à–¾|ƒf[ƒ^Œ^|
+|Location|https://XXXXXXX.com/rest/users/æ‹…å½“è€…ã‚³ãƒ¼ãƒ‰|
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒ¬ã‚¹ãƒãƒ³ã‚¹ã‚³ãƒ³ãƒ†ãƒ³ãƒˆ
+
+|ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿å|èª¬æ˜Ž|ãƒ‡ãƒ¼ã‚¿åž‹|
 |-|-|-|
-|person_in_charge_name|’S“–ŽÒ–¼|•¶Žš—ñ|
-|createDate|“o˜^“úŽž|“úŽž|
-|sessionToken|ƒZƒbƒVƒ‡ƒ“ƒg[ƒNƒ“|•¶Žš—ñ|
-|person_in_charge_code|’S“–ŽÒƒR[ƒh|•¶Žš—ñ|
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŠƒNƒGƒXƒgƒTƒ“ƒvƒ‹iIDEPASSWORD”FØj
+|person_in_charge_name|æ‹…å½“è€…å|æ–‡å­—åˆ—|
+|createDate|ç™»éŒ²æ—¥æ™‚|æ—¥æ™‚|
+|sessionToken|ã‚»ãƒƒã‚·ãƒ§ãƒ³ãƒˆãƒ¼ã‚¯ãƒ³|æ–‡å­—åˆ—|
+|person_in_charge_code|æ‹…å½“è€…ã‚³ãƒ¼ãƒ‰|æ–‡å­—åˆ—|
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒªã‚¯ã‚¨ã‚¹ãƒˆã‚µãƒ³ãƒ—ãƒ«ï¼ˆIDãƒ»PASSWORDèªè¨¼ï¼‰
 curl -X POST \ <br>
  -H "X-Application-Key: 549116a86b0ebbec4832d4086a56f36c82a5d64bc6528fa5e6220be76db5ef45" \ <br>
  -H "X-Timestamp: 2018-08-14T15:46:25.543" \ <br>
@@ -52,11 +57,11 @@ curl -X POST \ <br>
  -H "Content-Type: application/json" \ <br>
  -d '{"company_unique_code": "12345678", "person_in_charge_code": "admin@ebskk.com","passwords":"admin","person_in_charge_name":"ebskk","person_in_charge_mail":"admin@ebskk.com","mobile_tel":"1234567890","home_tel":"0987654321"}' \ <br>
 https://hanbai.jpis.co.jp/rest/users <br>
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŒƒXƒ|ƒ“ƒXƒTƒ“ƒvƒ‹iIDEPASSWORD”FØj
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒ¬ã‚¹ãƒãƒ³ã‚¹ã‚µãƒ³ãƒ—ãƒ«ï¼ˆIDãƒ»PASSWORDèªè¨¼ï¼‰
 HTTP/1.1 201 Created<br>
 Content-Type: application/json;charset=UTF-8<br>
-Location: http://hanbai.jpis.co.jp/rest/users/’S“–ŽÒƒR[ƒh<br>
+Location: http://hanbai.jpis.co.jp/rest/users/æ‹…å½“è€…ã‚³ãƒ¼ãƒ‰<br>
 
 {"createDate":"2018-08-28T11:27:16.446Z","person_in_charge_name":"ebskk","sessionToken":"iXDIelJRY3ULBdms281VTmc5O","person_in_charge_code":"admin@ebskk.com"}<br>
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>																																
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>																																
