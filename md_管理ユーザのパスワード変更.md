@@ -1,42 +1,47 @@
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### Šî–{Žd—l
-‚PAAPIƒpƒXF/users/’S“–ŽÒƒR[ƒh<br>
-‚QAƒƒ\ƒbƒhFPUT<br>
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŠƒNƒGƒXƒgƒwƒbƒ_[
-ƒVƒOƒlƒ`ƒƒ‚âAPIƒL[‚È‚Ç‚ÌÚ×‚Íu‹¤’ÊƒtƒH[ƒ}ƒbƒgv‚ðŽQÆ‚µ‚Ä‚­‚¾‚³‚¢<br>
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### åŸºæœ¬ä»•æ§˜
+ï¼‘ã€APIãƒ‘ã‚¹ï¼š/users/æ‹…å½“è€…ã‚³ãƒ¼ãƒ‰<br>
+ï¼’ã€ãƒ¡ã‚½ãƒƒãƒ‰ï¼šPUT<br>
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒªã‚¯ã‚¨ã‚¹ãƒˆãƒ˜ãƒƒãƒ€ãƒ¼
+ã‚·ã‚°ãƒãƒãƒ£ã‚„APIã‚­ãƒ¼ãªã©ã®è©³ç´°ã¯ã€Œå…±é€šãƒ•ã‚©ãƒ¼ãƒžãƒƒãƒˆã€ã‚’å‚ç…§ã—ã¦ãã ã•ã„<br>
 
-|ƒtƒB[ƒ‹ƒh–¼|“à—e|
+|ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰å|å†…å®¹|
 |-|-|
 |Content-Type|application/json|
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŠƒNƒGƒXƒgƒRƒ“ƒeƒ“ƒg
 
-|ƒpƒ‰ƒ[ƒ^–¼|à–¾|ƒf[ƒ^Œ^|•K{|ƒ`ƒFƒbƒN>|
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒªã‚¯ã‚¨ã‚¹ãƒˆã‚³ãƒ³ãƒ†ãƒ³ãƒˆ
+
+|ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿å|èª¬æ˜Ž|ãƒ‡ãƒ¼ã‚¿åž‹|å¿…é ˆ|ãƒã‚§ãƒƒã‚¯>|
 |-|-|-|-|-|
-|company_unique_code|Šé‹Æ•W€ƒR[ƒh|•¶Žš—ñA”¼Šp50Œ…|¢|‘¶Ýƒ`ƒFƒbƒN|
-|person_in_charge_code|’S“–ŽÒƒR[ƒh|•¶Žš—ñA”¼Šp60Œ…|¢|ˆêˆÓƒ`ƒFƒbƒNAƒtƒH[ƒ}ƒbƒgƒ`ƒFƒbƒN|
-|passwords|ƒpƒXƒ\ƒh|•¶Žš—ñA”¼Šp50Œ…|¢||
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŒƒXƒ|ƒ“ƒXHTTPƒXƒe[ƒ^ƒX
+|company_unique_code|ä¼æ¥­æ¨™æº–ã‚³ãƒ¼ãƒ‰|æ–‡å­—åˆ—ã€åŠè§’50æ¡|â–³|å­˜åœ¨ãƒã‚§ãƒƒã‚¯|
+|person_in_charge_code|æ‹…å½“è€…ã‚³ãƒ¼ãƒ‰|æ–‡å­—åˆ—ã€åŠè§’60æ¡|â–³|ä¸€æ„ãƒã‚§ãƒƒã‚¯ã€ãƒ•ã‚©ãƒ¼ãƒžãƒƒãƒˆãƒã‚§ãƒƒã‚¯|
+|passwords|ãƒ‘ã‚¹ãƒ¯â€•ãƒ‰|æ–‡å­—åˆ—ã€åŠè§’50æ¡|â–³||
 
-|ƒXƒe[ƒ^ƒXƒR[ƒh|à–¾|
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒ¬ã‚¹ãƒãƒ³ã‚¹HTTPã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹
+
+|ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã‚³ãƒ¼ãƒ‰|èª¬æ˜Ž|
 |-|-|
-|200|XVŠ®—¹|
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŒƒXƒ|ƒ“ƒXƒwƒbƒ_[
+|200|æ›´æ–°å®Œäº†|
 
-|ƒtƒB[ƒ‹ƒh–¼|’l|
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒ¬ã‚¹ãƒãƒ³ã‚¹ãƒ˜ãƒƒãƒ€ãƒ¼
+
+|ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰å|å€¤|
 |-|-|
 |Content-Type|application/json|
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŒƒXƒ|ƒ“ƒXƒRƒ“ƒeƒ“ƒg
 
-|ƒpƒ‰ƒ[ƒ^–¼|à–¾|ƒf[ƒ^Œ^|
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒ¬ã‚¹ãƒãƒ³ã‚¹ã‚³ãƒ³ãƒ†ãƒ³ãƒˆ
+
+|ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿å|èª¬æ˜Ž|ãƒ‡ãƒ¼ã‚¿åž‹|
 |-|-|-|
-|updateDate|XV“úŽž|“úŽž|
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŠƒNƒGƒXƒgƒTƒ“ƒvƒ‹
+|updateDate|æ›´æ–°æ—¥æ™‚|æ—¥æ™‚|
+
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒªã‚¯ã‚¨ã‚¹ãƒˆã‚µãƒ³ãƒ—ãƒ«
 curl -X PUT \ <br>
  -H "X-Apps-Session-Token:46MnVgUbwHIXIHp9mowIeh7r2" \ <br>
  -H "X-Application-Key: 549116a86b0ebbec4832d4086a56f36c82a5d64bc6528fa5e6220be76db5ef45" \ <br>
@@ -45,8 +50,8 @@ curl -X PUT \ <br>
  -H "Content-Type: application/json" \ <br>
  -d '{"company_unique_code": "12345678", "person_in_charge_code": "admin@ebskk.com","passwords":"admin"}' \ <br>
 https://hanbai.jpis.co.jp/rest/users/admin@ebskk.com <br>
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
-#### ƒŒƒXƒ|ƒ“ƒXƒTƒ“ƒvƒ‹
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
+#### ãƒ¬ã‚¹ãƒãƒ³ã‚¹ã‚µãƒ³ãƒ—ãƒ«
 HTTP/1.1 200 OK<br>
 {"updateDate":"2013-08-28T12:21:17.087Z"}<br>
-„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ<br>
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€<br>
