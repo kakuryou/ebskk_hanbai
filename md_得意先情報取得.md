@@ -70,12 +70,9 @@
 ───────────────────────────────────────────────────────────<br>
 #### リクエストサンプル
 curl -X GET -G \ <br>
- -H "X-NCMB-Apps-Session-Token:46MnVgUbwHIXIHp9mowIeh7r2" \ <br>
- -H "X-NCMB-Application-Key: 549116a86b0ebbec4832d4086a56f36c82a5d64bc6528fa5e6220be76db5ef45" \ <br>
- -H "X-NCMB-Timestamp: 2013-08-14T15:46:25.543" \ <br>
- -H "X-NCMB-Signature: x2Dlg8KCZ7M77kD45ofeCZAJScVcVVl7Xn7SHhE0CF0=" \ <br>
+ -H "user-key:11111111" \ <br>
  -H "Content-Type: application/json" \ <br>
-https://hanbai.jpis.co.jp/rest/tokuisaki/12345678/000001<br>
+https://dora.jpis.co.jp/Sales41_aws_demo/rest/UserInfoService/tokuisaki/12345678/000001<br>
 ───────────────────────────────────────────────────────────<br>
 #### レスポンスサンプル
 {<br>
