@@ -1,6 +1,6 @@
 ───────────────────────────────────────────────────────────<br>
 #### 基本仕様
-１、APIパス：/users<br>
+１、APIパス：/addUsers<br>
 ２、メソッド：POST<br>
 ───────────────────────────────────────────────────────────<br>
 #### リクエストヘッダー
@@ -36,7 +36,7 @@
 |フィールド名|値|
 |-|-|
 |Content-Type|application/json|
-|Location|https://XXXXXXX.com/rest/users/担当者コード|
+|Location|https://dora.jpis.co.jp/Sales41_aws_demo/rest/UserInfoService/addUsers/担当者コード|
 
 ───────────────────────────────────────────────────────────<br>
 #### レスポンスコンテント
@@ -45,18 +45,15 @@
 |-|-|-|
 |person_in_charge_name|担当者名|文字列|
 |createDate|登録日時|日時|
-|sessionToken|セッショントークン|文字列|
 |person_in_charge_code|担当者コード|文字列|
 
 ───────────────────────────────────────────────────────────<br>
 #### リクエストサンプル（ID・PASSWORD認証）
 curl -X POST \ <br>
- -H "X-Application-Key: 549116a86b0ebbec4832d4086a56f36c82a5d64bc6528fa5e6220be76db5ef45" \ <br>
- -H "X-Timestamp: 2018-08-14T15:46:25.543" \ <br>
- -H "X-Signature: l2ljScCsh1/oPv7mYePjUNPEDI81s85PYCT7ciTaiVM=" \ <br>
+ -H "user-key:11111111" \ <br>
  -H "Content-Type: application/json" \ <br>
- -d '{"company_unique_code": "12345678", "person_in_charge_code": "admin@ebskk.com","passwords":"admin","person_in_charge_name":"ebskk","person_in_charge_mail":"admin@ebskk.com","mobile_tel":"1234567890","home_tel":"0987654321"}' \ <br>
-https://hanbai.jpis.co.jp/rest/users <br>
+ -d "{company_unique_code:12345678,person_in_charge_code:ebs@ebskk.com,passwords:ebs,person_in_charge_name:ebs,person_in_charge_mail:ebs@ebskk.com,mobile_tel:1234567890,home_tel:0987654321}" \ <br>
+https://dora.jpis.co.jp/Sales41_aws_demo/rest/UserInfoService/addUsers <br>
 ───────────────────────────────────────────────────────────<br>
 #### レスポンスサンプル（ID・PASSWORD認証）
 HTTP/1.1 201 Created<br>
