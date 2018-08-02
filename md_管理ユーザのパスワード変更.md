@@ -1,6 +1,6 @@
 ───────────────────────────────────────────────────────────<br>
 #### 基本仕様
-１、APIパス：/users/担当者コード<br>
+１、APIパス：/updateUsers/担当者コード<br>
 ２、メソッド：PUT<br>
 ───────────────────────────────────────────────────────────<br>
 #### リクエストヘッダー
@@ -43,13 +43,10 @@
 ───────────────────────────────────────────────────────────<br>
 #### リクエストサンプル
 curl -X PUT \ <br>
- -H "X-Apps-Session-Token:46MnVgUbwHIXIHp9mowIeh7r2" \ <br>
- -H "X-Application-Key: 549116a86b0ebbec4832d4086a56f36c82a5d64bc6528fa5e6220be76db5ef45" \ <br>
- -H "X-Timestamp: 2013-08-14T15:46:25.543" \ <br>
- -H "X-Signature: WRAfDyz9ijqeUEBEETv57dzb+OzwAeaVSnfG9ez/BYI=" \ <br>
+ -H "user-key:11111111" \ <br>
  -H "Content-Type: application/json" \ <br>
- -d '{"company_unique_code": "12345678", "person_in_charge_code": "admin@ebskk.com","passwords":"admin"}' \ <br>
-https://hanbai.jpis.co.jp/rest/users/admin@ebskk.com <br>
+ -d "{company_unique_code:12345678,person_in_charge_code:ebs@ebskk.com,passwords:123456}" \ <br>
+https://dora.jpis.co.jp/Sales41_aws_demo/rest/UserInfoService/updateUsers/ebs@ebskk.com <br>
 ───────────────────────────────────────────────────────────<br>
 #### レスポンスサンプル
 HTTP/1.1 200 OK<br>
