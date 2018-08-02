@@ -58,7 +58,7 @@ https://dora.jpis.co.jp/Sales41_aws_demo/rest/UserInfoService/addUsers <br>
 #### レスポンスサンプル（ID・PASSWORD認証）
 HTTP/1.1 201 Created<br>
 Content-Type: application/json;charset=UTF-8<br>
-Location: http://hanbai.jpis.co.jp/rest/users/担当者コード<br>
+Location: https://dora.jpis.co.jp/Sales41_aws_demo/rest/UserInfoService/addUsers/担当者コード<br>
 
-{"createDate":"2018-08-28T11:27:16.446Z","person_in_charge_name":"ebskk","sessionToken":"iXDIelJRY3ULBdms281VTmc5O","person_in_charge_code":"admin@ebskk.com"}<br>
+{"createDate":"2018-08-28T11:27:16.446Z","person_in_charge_name":"ebs","person_in_charge_code":"ebs@ebskk.com"}<br>
 ───────────────────────────────────────────────────────────<br>																																
