@@ -50,6 +50,7 @@
 ───────────────────────────────────────────────────────────<br>
 #### リクエストサンプル（ID・PASSWORD認証）
 curl -X POST \ <br>
+ -H "user-id:demo@ebskk.com" \ <br>
  -H "user-key:11111111" \ <br>
  -H "Content-Type: application/json" \ <br>
  -d "{company_unique_code:12345678,person_in_charge_code:ebs@ebskk.com,passwords:ebs,person_in_charge_name:ebs,person_in_charge_mail:ebs@ebskk.com,mobile_tel:1234567890,home_tel:0987654321}" \ <br>
