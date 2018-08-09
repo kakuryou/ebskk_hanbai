@@ -70,6 +70,7 @@
 ───────────────────────────────────────────────────────────<br>
 #### リクエストサンプル
 curl -X GET -G \ <br>
+ -H "user-id:demo@ebskk.com" \ <br>
  -H "user-key:11111111" \ <br>
  -H "Content-Type: application/json" \ <br>
 https://dora.jpis.co.jp/Sales41_aws_demo/rest/UserInfoService/tokuisaki/12345678/000001<br>
