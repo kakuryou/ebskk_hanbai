@@ -43,6 +43,7 @@
 ───────────────────────────────────────────────────────────<br>
 #### リクエストサンプル
 curl -X PUT \ <br>
+ -H "user-id:demo@ebskk.com" \ <br>
  -H "user-key:11111111" \ <br>
  -H "Content-Type: application/json" \ <br>
  -d "{company_unique_code:12345678,person_in_charge_code:ebs@ebskk.com,passwords:123456}" \ <br>
